@@ -6,7 +6,7 @@ www.takoen.com
 
 **Takoen** adalah situs forum interaktif sederhana di mana Anda dapat mendaftarkan akun dan membuat utas tentang pertanyaan, masalah, atau masalah Anda terkait topik yang Anda pilih. Anda juga dapat membalas, mengikuti, dan menyukai utas pengguna lainnya.
 
-List of some of its functionalities
+List beberapa fungsi
 * Register account
 * Create threads
 * Reply on threads
