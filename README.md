@@ -1,20 +1,17 @@
 <!-- WEBSITE NAME -->
-# forum
-
-<!-- WEBSITE SCREENSHOT -->
-![Website Screen Shot](forum_screenshot.jpg)
+www.takoen.com
 
 <!-- ABOUT THE PROJECT -->
 ### About The Project
 
-**forum** is a simple interactive forum website where in you can register account and create a thread about your question, problem or issues related on the topic you choose. You can also reply, follow,  and like other user threads.
+**Takoen** adalah situs forum interaktif sederhana di mana Anda dapat mendaftarkan akun dan membuat utas tentang pertanyaan, masalah, atau masalah Anda terkait topik yang Anda pilih. Anda juga dapat membalas, mengikuti, dan menyukai utas pengguna lainnya.
 
 List of some of its functionalities
 * Register account
 * Create threads
 * Reply on threads
 * Like threads
-* Follow threads and get notified on latest replies of other users.
+* Follow threads dan dapat mendapatkan notifikasi dari penggunan lain.
 
 ### Built With
 
@@ -25,11 +22,9 @@ List of some of its functionalities
 
 <!-- GETTING STARTED -->
 ### Getting Started
+Untuk memulai menyiapkan proyek Anda secara lokal. Untuk mengaktifkan dan menjalankan salinan lokal, ikuti langkah-langkah sederhana ini.
 
-To get started setting up your project locally. To get a local copy up and running follow these simple steps.
 
-### Prerequisites
-Assuming you have already installed latest php, composer, node.js, npm, and git on your computer
 
 ### Installation
 
@@ -71,19 +66,3 @@ Assuming you have already installed latest php, composer, node.js, npm, and git 
    ```sh
    npm run watch
    ```
-
-<!-- CONTRIBUTING -->
-### Contributing
-
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-<!-- CONTACT -->
-### Contact
-
-Project Link: [https://github.com/wickeddd3](https://github.com/wickeddd3)
