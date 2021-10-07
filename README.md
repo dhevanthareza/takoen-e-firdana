@@ -28,41 +28,38 @@ Untuk memulai menyiapkan proyek Anda secara lokal. Untuk mengaktifkan dan menjal
 
 ### Installation
 
-1. Clone the repo
-   ```sh
-   git clone https://github.com/wickeddd3/Forum.git
    ```
-2. Install Composer packages
+1. Install Composer packages
    ```sh
    composer install
    ```
-3. Install NPM packages
+2. Install NPM packages
    ```sh
    npm install
    ```
-4. Create a copy of .env.example and rename it to .env
-5. Inside .env fill up Database and Mail details.
+3. Create a copy of .env.example and rename it to .env
+4. Inside .env fill up Database and Mail details.
    For development purposes you can use Mailtrap (https://mailtrap.io)
    as mail host.
-6. Generate APP_KEY
+5. Generate APP_KEY
    ```sh
    php artisan key:generate
    ```
-7. Database Migration
+6. Database Migration
    ```sh
    php artisan migrate --seed
 
    // --seed command will generate dummy data on your database
    ```
-8. Link storage to public directory
+7. Link storage to public directory
    ```sh
    php artisan storage:link
    ```
-9. Run locally
+8. Run locally
    ```sh
    php artisan serve
    ```
-10. Compile assets
+9. Compile assets
    ```sh
    npm run watch
    ```
